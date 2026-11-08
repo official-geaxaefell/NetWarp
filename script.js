@@ -1,4 +1,5 @@
-// Created by geaxaefell
+/* Created by geaxaefell
+Unfinished, it may be finished with you help*/
 (function (Scratch) {  
     'use strict';  
 
